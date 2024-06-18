@@ -16,8 +16,13 @@ Responsive Design: Uses LayoutBuilder to ensure responsive UI across different s
 Charts: Visual representation of expenses using charts.
 
 ## Screenshots
-![Screenshot_1718285763](https://github.com/subashghimirey/Expenses_tracker/assets/88834868/c46b0dbb-c7de-4618-9f9e-093c79eab748)
-![Screenshot_1718465446](https://github.com/subashghimirey/Expenses_tracker/assets/88834868/bcb41070-4c2f-4002-aaf4-808f305feddd)
+
+### Screenshot 1
+<img src="https://github.com/subashghimirey/Expenses_tracker/assets/88834868/c46b0dbb-c7de-4618-9f9e-093c79eab748" alt="Screenshot 1" width="400">
+
+### Screenshot 2
+<img src="https://github.com/subashghimirey/Expenses_tracker/assets/88834868/bcb41070-4c2f-4002-aaf4-808f305feddd" alt="Screenshot 2" width="400">
+
 
 ## Getting Started
 Prerequisites
